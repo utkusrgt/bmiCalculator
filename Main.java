@@ -13,7 +13,7 @@ public class Main {
         System.out.print("Please enter your weight in kg (e.g 75) : " );
         b = inp.nextDouble();
 
-        double sum = (b / a * a);
+        double sum = (b / (a * a));
         System.out.println("Your BMI is: " + sum);
 
 

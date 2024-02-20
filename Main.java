@@ -14,7 +14,7 @@ public class Main {
         b = inp.nextDouble();
 
         double sum = (b / a * a);
-        System.out.println(sum);
+        System.out.println("Your BMI is: " + sum);
 
 
 
